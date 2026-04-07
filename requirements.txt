@@ -1,0 +1,7 @@
+# requirements.txt
+# ─────────────────────────────────────────────────────────────────
+# Install these with:  pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────────
+
+# Flask — the web framework that runs the server
+flask>=3.0.0
